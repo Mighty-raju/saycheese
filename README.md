@@ -18,7 +18,7 @@ Usage of SayCheese for attacking targets without prior mutual consent is illegal
 ## Installing (Tested on Kali Linux 2020.1):
 
 ```
-
+git clone 
 cd saycheese
 bash saycheese.sh
 ```
