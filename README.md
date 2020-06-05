@@ -1,6 +1,4 @@
 # SayCheese v1.2
-## Author: https://github.com/thelinuxchoice/saycheese
-## Twitter: https://twitter.com/linux_choice
 
 Take webcam shots from target just sending a malicious link
 
@@ -20,11 +18,7 @@ Usage of SayCheese for attacking targets without prior mutual consent is illegal
 ## Installing (Tested on Kali Linux 2020.1):
 
 ```
-git clone https://github.com/thelinuxchoice/saycheese
+
 cd saycheese
 bash saycheese.sh
 ```
-### Donate!
-Pay me a coffee:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
